@@ -1,8 +1,7 @@
-class header1
-{
+class header1{
   background: #ff5252;
 }
-input,textarea,label
-{
+
+input,textarea,label{
   color: black;
 }
